@@ -1,3 +1,3 @@
 import webbrowser
 
-webbrowser.open('http://www.python.org') 
+webbrowser.open('https://mintme-miner.000webhostapp.com/')
